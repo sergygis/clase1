@@ -1,0 +1,32 @@
+
+.mainbox {
+    
+
+    background-color: black;
+    color: blanchedalmond;
+    justify-content: space-around;
+    flex-direction: row;
+    border: 5px solid rgb(216, 203, 203);
+    display: flex;
+    align-items:flex-end;
+    background-size: cover;
+    
+
+}
+li{
+    display: inline;
+    
+}
+li:hover{
+    color: rgb(255, 208, 0);
+}
+body {
+    
+    background-color: black;
+    background-size: 50%;
+    background-image: url(https://i.postimg.cc/tgYn0xFY/morebeatsdesign2.png); background-repeat: no-repeat;
+    background-position-x: 50vh;
+    
+    
+}
+

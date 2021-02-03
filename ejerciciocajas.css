@@ -1,0 +1,23 @@
+.cajabody {
+background-color: gray;
+}
+.cajalink{
+    background-color: greenyellow;
+}
+.caja2{
+    background-color: yellow;
+}
+
+.caja3 {
+    background-color: grey;
+}
+
+@media all and (max-width: 768px){
+    .cajabody{
+        background-color: #6980ff;
+    }
+    #contenedor {
+        display: flex;
+    }
+
+
