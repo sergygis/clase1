@@ -10,7 +10,24 @@ background-color: gray;
 
 .caja3 {
     background-color: grey;
+
 }
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+
+
+}
+
+
+.cajatext {
+    padding-left: 20px;
+}
+
+.image {
+    flex-basis: 40%
+    
 
 @media all and (max-width: 768px){
     .cajabody{
@@ -19,5 +36,8 @@ background-color: gray;
     #contenedor {
         display: flex;
     }
+
+
+
 
 
